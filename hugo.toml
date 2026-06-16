@@ -1,7 +1,7 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://nilbrahim.github.io/website2026/"
 languageCode = "en-us"
-title = "My Hugo Site"
-theme = "paper"
+title = "Website 2026"
+theme = "stack"
 
 [params]
-  color = "linen"
+  mainSections = ["post"]
