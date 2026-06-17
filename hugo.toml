@@ -1,7 +1,6 @@
-baseURL = "https://nilbrahim.github.io/website2026/"
-languageCode = "en-us"
+baseURL = "/"
 title = "Website 2026"
-theme = "stack"
+theme = "PaperMod"
 
-[params]
-  mainSections = ["post"]
+[pagination]
+pagerSize = 10

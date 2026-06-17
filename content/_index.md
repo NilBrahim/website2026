@@ -1,5 +1,9 @@
----
-title: "Home"
+# Website 2026
+
+It works 🎉
+
 ---
 
-Welcome to my website.
+## Pages
+
+- [Reading List](/reading-list/)
