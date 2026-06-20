@@ -4,3 +4,5 @@ theme = "PaperMod"
 
 [pagination]
 pagerSize = 10
+[markup.goldmark.renderer]
+unsafe = true
