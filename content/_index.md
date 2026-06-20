@@ -3,8 +3,6 @@
 
 <img src="images/profile.jpg" width="200" style="border-radius:50%;">
 
-<h1>Niloofar Ebrahimi</h1>
-
 <p>
 I’m a statistician and data-driven healthcare enthusiast with a passion for using statistical modeling, machine learning, and quantitative methods to improve clinical research. I hold an M.S. in Mathematical Statistics from Amirkabir University of Technology (AUT) and a B.S. in Applied Statistics from the University of Tehran (UT).
 </p>
@@ -18,6 +16,5 @@ Previously, I worked as a Statistician and Data Analyst with the Orchid Pharmace
 </p>
 
 </div>
----
 
-- [Reading List](/reading-list/)
+

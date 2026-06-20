@@ -1,0 +1,14 @@
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #1558b0;
+}
+
+
+.first-entry .entry-content {
+  font-size: 0.9rem;
+}
