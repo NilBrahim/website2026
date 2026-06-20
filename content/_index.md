@@ -1,4 +1,3 @@
-# Website 2026
 
 <div style="text-align:center;">
 
@@ -20,7 +19,5 @@ Previously, I worked as a Statistician and Data Analyst with the Orchid Pharmace
 
 </div>
 ---
-
-## Pages
 
 - [Reading List](/reading-list/)
