@@ -16,13 +16,13 @@
          style="width: 100%; max-width: 410px; height: auto; object-fit: cover; border-radius: 0;">
   <!-- Right column: Contact & Skills -->
   <div style="flex: 1; font-size: 0.9rem; min-width: 260px;">
-    <h2 style="margin-bottom: 1rem;font-size: 1.5rem;">Contact Info</h2>
+    <h2 style="margin-bottom: 1rem;font-size: 1.01rem;">Contact Info</h2>
     <p>
       <strong>Email:</strong> <a href="mailto:s.niloufar.ebrahimi@gmail.com">s.niloufar.ebrahimi@gmail.com</a><br>
       <strong>GitHub:</strong> <a href="https://github.com/NilBrahim">NilBrahim</a><br>
       <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/niloufar-ebrahimi/">Nil E.</a>
     </p>
-    <h2 style="margin-top: 2rem; margin-bottom: 1rem;">Skills</h2>
+    <h2 style="margin-top: 2rem; margin-bottom: 1rem;font-size: 1.01rem;">Skills</h2>
     <ul style="line-height: 1.6; margin-left: 1rem;">
       <li>Statistical Modeling & Inference</li>
       <li>Machine Learning</li>
@@ -54,7 +54,7 @@
 
   <!-- Left column: Publications + Teaching -->
   <div style="flex: 2; min-width: 340px;">
-<h2 style="margin-bottom: 1rem;">Publications</h2>
+<h2 style="margin-bottom: 1rem;font-size: 1.01rem;">Publications</h2>
 <ul style="line-height: 1.6; margin-left: 1rem;">
 
   <strong>
@@ -106,7 +106,7 @@ Niloofar Ebrahimi, Samaneh Eftekhari
   <br>
   National Conference of Monetary and Exchange Policies 2017.
 </ul>
-<h2 style="margin-top: 3rem; margin-bottom: 1rem;">Teaching</h2>
+<h2 style="margin-top: 3rem; margin-bottom: 1rem;font-size: 1.01rem;">Teaching</h2>
 <ul style="line-height: 1.6; margin-left: 1rem;">
 
   <strong>At AUT:</strong><br>
