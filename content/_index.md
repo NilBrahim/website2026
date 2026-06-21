@@ -20,7 +20,9 @@
     <p>
       <strong>Email:</strong> <a href="mailto:s.niloufar.ebrahimi@gmail.com">s.niloufar.ebrahimi@gmail.com</a><br>
       <strong>GitHub:</strong> <a href="https://github.com/NilBrahim" target="_blank"
-      tyle="text-decoration: none; color: 4b7bae;">NilBrahim</a><br>
+      tyle="text-decoration: none; color: 4b7bae;"
+       onmouseover="this.style.color='#4b7bae';"
+       onmouseout="this.style.color='4b7bae';">NilBrahim</a><br>
       <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/niloufar-ebrahimi/">Nil E.</a>
     </p>
     <h2 style="margin-top: 2rem; margin-bottom: 1rem;font-size: 1.01rem;">Skills</h2>
