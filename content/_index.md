@@ -45,14 +45,6 @@ style="text-decoration: none; color: #4b7bae;"
 onmouseover="this.style.color='#2f5f8f';"
 onmouseout="this.style.color='#4b7bae';">Niloofar Ebrahimi</a>
     </p>
-<h2 style="margin-top: 2rem; margin-bottom: 1rem;font-size: 1.01rem;">Skills</h2>
-    <ul style="line-height: 1.6; margin-left: 1rem;">
-      <li>Statistical Modeling & Inference</li>
-      <li>Machine Learning</li>
-      <li>Clinical Trial Data Analysis</li>
-      <li>Data Visualization & Communication</li>
-      <li>R, Python, and SQL</li>
-    </ul>
   </div>
 
   <!-- Right column: Bio -->
