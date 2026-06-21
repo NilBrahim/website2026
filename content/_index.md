@@ -1,3 +1,14 @@
+<style>
+a {
+  color: #4b7bae !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: #2f5f8f !important;
+  text-decoration: none !important;
+}
+</style>
 <!-- ===== HERO SECTION (Photo + Bio) ===== -->
 <div style="
   display: flex;
