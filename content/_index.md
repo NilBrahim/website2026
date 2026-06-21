@@ -64,9 +64,9 @@ onmouseout="this.style.color='#4b7bae';">Niloofar Ebrahimi</a>
 
   <!-- Right column: Bio -->
   <div style="flex: 1.5 1 400px; font-size: 0.9rem; line-height: 1.6;">
-<p>I studied an <strong>M.S. in Mathematical Statistics</strong>strong> at Amirkabir University of Technology (AUT) and a <strong>B.S. in Applied Statistics</strong>strong> at the University of Tehran (UT). I enjoy using statistical modeling, machine learning, and quantitative methods to improve clinical research.</p>
+<p>I studied an <strong>M.S. in Mathematical Statistics</strong>at Amirkabir University of Technology (AUT) and a <strong>B.S. in Applied Statistics</strong> at the University of Tehran (UT). I enjoy using statistical modeling, machine learning, and quantitative methods to improve clinical research.</p>
 
-<p>Previously, I worked as a <strong>Statistician & Data Analyst</strong>strong> with the Orchid Pharmaceutical team, where I collaborated with clinical research teams on the design and analysis of large-scale clinical trials.</p>
+<p>Previously, I worked as a <strong>Statistician & Data Analyst</strong> with the Orchid Pharmaceutical team, where I collaborated with clinical research teams on the design and analysis of large-scale clinical trials.</p>
 
 <p>Here, I write about my main interests, Statistics and Yoga.</p>
 
