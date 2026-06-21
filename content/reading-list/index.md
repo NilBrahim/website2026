@@ -4,6 +4,24 @@ draft: false
 ---
 
 <style>
+/* Page title */
+h1 {
+  font-size: 1.01rem !important;
+}
+
+/* Year headings (2026, 2025, 2024) */
+h2 {
+  font-size: 1.3rem !important;
+  font-weight: 600;
+}
+
+/* Main text */
+p, li {
+  font-size: 0.9rem !important;
+  line-height: 1.6;
+}
+
+/* Links */
 a {
   color: #4b7bae !important;
   text-decoration: none !important;
@@ -11,11 +29,8 @@ a {
 
 a:hover {
   color: #2f5f8f !important;
-  text-decoration: none !important;
 }
 </style>
-
-<div style="font-size: 0.9rem; line-height: 1.6;">
 
 I like to share what I’m reading to keep me motivated. Below are books I’ve read. <br>
 Books I’ve especially loved are marked with an asterisk.
