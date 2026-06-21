@@ -14,7 +14,11 @@ a:hover {
   text-decoration: none !important;
 }
 </style>
-I like to share what I’m reading to keep me motivated. Below are books I’ve read. <br>Books I’ve especially loved are marked with an asterisk.
+
+<div style="font-size: 0.9rem; line-height: 1.6;">
+
+I like to share what I’m reading to keep me motivated. Below are books I’ve read. <br>
+Books I’ve especially loved are marked with an asterisk.
 
 ## 2026
 
@@ -37,3 +41,5 @@ I like to share what I’m reading to keep me motivated. Below are books I’ve 
 1. [Laughable Loves](https://www.goodreads.com/book/show/26101.Laughable_Loves), Milan Kundera  
 1. [The Little Book of Hygge](https://www.goodreads.com/book/show/34690889-the-little-book-of-hygge), Meik Wiking  
 1. [Farewell Waltz](https://www.goodreads.com/book/show/50605.Farewell_Waltz), Milan Kundera<sup>*</sup>  
+
+</div>
