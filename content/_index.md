@@ -69,20 +69,21 @@ onmouseout="this.style.color='#4b7bae';">Niloofar Ebrahimi</a>
 <p>Previously, I worked as a Statistician and Data Analyst with the Orchid Pharmaceutical team, where I collaborated with clinical research teams on the design and analysis of large-scale clinical trials.</p>
 
 <p>Here, I write about my main interests, Statistics and Yoga.</p>
-</div>
-</div>
 
+</div>
+</div>
 <hr style="margin: 2rem 2rem; border: 0px solid #ddd;">
 
 <!-- ===== RESEARCH & CONTACT SECTION (Two-column) ===== -->
-    
+  <div style="flex: 1.5 1 400px; font-size: 0.9rem; line-height: 1.6;">
+<p>During my graduate studies at AUT, I focused on high-dimensional data analysis and robust regression methods, learning to bridge statistical theory with practical computation in R and Python. Earlier at UT, I worked on predictive modeling projects that showed me how data-driven thinking can translate directly into solving real-world problems, an idea that continues to guide my work today.</p>
+      </div>
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; font-size: 0.9rem; gap: 3rem; padding: 2rem 4rem;">
   <!-- Left column: Publications + Teaching -->
   <div style="flex: 2; min-width: 340px;">
 <h2 style="margin-bottom: 1rem;font-size: 1.01rem;">Publications</h2>
 <ul style="line-height: 1.6; margin-left: 1rem;">
-  <a style="flex: 1.5 1 400px; font-size: 0.9rem; line-height: 1.6;">
-<p>During my graduate studies at AUT, I focused on high-dimensional data analysis and robust regression methods, learning to bridge statistical theory with practical computation in R and Python. Earlier at UT, I worked on predictive modeling projects that showed me how data-driven thinking can translate directly into solving real-world problems, an idea that continues to guide my work today.</p>
+
   <strong>
     <a href="/pdfs/JSMTA.pdf" target="_blank"
        style="text-decoration: none; color: inherit;"
