@@ -1,4 +1,3 @@
-is this code correct? 
 <!-- ===== HERO SECTION (Photo + Bio) ===== -->
 <div style="
   display: flex;
