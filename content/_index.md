@@ -1,7 +1,20 @@
+<!-- ===== HERO SECTION (Photo + Bio) ===== -->
+<div style="
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 3rem;
+  padding: 2rem 4rem;
+  max-width: 1200px;
+  margin: 0 auto;
+">
 
-<div style="text-align:center;">
-
-<img src="images/profile.jpg" width="200" style="border-radius:50%;">
+  <!-- Left column: Photo -->
+  <div style="flex: 1 1 300px; text-align: center;">
+  <img src="images/profile.jpg" width="200" style="border-radius:50%;">
+         style="width: 100%; max-width: 410px; height: auto; object-fit: cover; border-radius: 0;">
+  </div>
 
 
   <div style="flex: 1.5 1 400px; font-size: 0.9rem; line-height: 1.6;">
