@@ -10,49 +10,35 @@
   margin: 0 auto;
 ">
 
-  <!-- Left column: Photo + Contact + Skills -->
-  <div style="flex: 1 1 300px; text-align: center; margin-top: -40px;">
-    <img src="images/profile.jpg"
-         width="200"
-         style="width: 100%; max-width: 410px; height: auto; object-fit: cover; border-radius: 50%;">
-    <!-- Contact & Skills -->
-    <div style="font-size: 0.9rem; min-width: 260px; text-align: left; margin-top: 1.5rem;">
-      <h2 style="margin-bottom: 1rem; font-size: 1.01rem;">Contact Info</h2>
-      <p>
-        <strong>Email:</strong>
-        <a href="mailto:s.niloufar.ebrahimi@gmail.com"
-           target="_blank"
-           style="text-decoration: none; color: #4b7bae;"
-           onmouseover="this.style.color='#2f5f8f';"
-           onmouseout="this.style.color='#4b7bae';">
-           s.niloufar.ebrahimi@gmail.com
-        </a><br>
-        <strong>GitHub:</strong>
-        <a href="https://github.com/NilBrahim"
-           target="_blank"
-           style="text-decoration: none; color: #4b7bae;"
-           onmouseover="this.style.color='#2f5f8f';"
-           onmouseout="this.style.color='#4b7bae';">
-           NilBrahim
-        </a><br>
-        <strong>LinkedIn:</strong>
-        <a href="https://www.linkedin.com/in/niloufar-ebrahimi/"
-           target="_blank"
-           style="text-decoration: none; color: #4b7bae;"
-           onmouseover="this.style.color='#2f5f8f';"
-           onmouseout="this.style.color='#4b7bae';">
-           Niloofar Ebrahimi
-        </a>
-      </p>
-      <h2 style="margin-top: 2rem; margin-bottom: 1rem; font-size: 1.01rem;">Skills</h2>
-      <ul style="line-height: 1.6; margin-left: 1rem;">
-        <li>Statistical Modeling & Inference</li>
-        <li>Machine Learning</li>
-        <li>Clinical Trial Data Analysis</li>
-        <li>Data Visualization & Communication</li>
-        <li>R, Python, and SQL</li>
-      </ul>
-    </div>
+  <!-- Left column: Photo -->
+<div style="flex: 1 1 300px; text-align: center; margin-top: -40px;">
+  <img src="images/profile.jpg" width="200" style="border-radius:50%;"
+         style="width: 100%; max-width: 410px; height: auto; object-fit: cover; border-radius: 0;">
+  <!-- Right column: Contact & Skills -->
+  <div style="flex: 1; font-size: 0.9rem; min-width: 260px;">
+    <h2 style="margin-bottom: 1rem;font-size: 1.01rem;">Contact Info</h2>
+    <p>
+      <strong>Email:</strong> <a href="mailto:s.niloufar.ebrahimi@gmail.com"target="_blank"
+style="text-decoration: none; color: #4b7bae;"
+onmouseover="this.style.color='#2f5f8f';"
+onmouseout="this.style.color='#4b7bae';">s.niloufar.ebrahimi@gmail.com</a><br>
+      <strong>GitHub:</strong> <a href="https://github.com/NilBrahim"target="_blank"
+style="text-decoration: none; color: #4b7bae;"
+onmouseover="this.style.color='#2f5f8f';"
+onmouseout="this.style.color='#4b7bae';">NilBrahim</a><br>
+      <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/niloufar-ebrahimi/"target="_blank"
+style="text-decoration: none; color: #4b7bae;"
+onmouseover="this.style.color='#2f5f8f';"
+onmouseout="this.style.color='#4b7bae';">Niloofar Ebrahimi</a>
+    </p>
+<h2 style="margin-top: 2rem; margin-bottom: 1rem;font-size: 1.01rem;">Skills</h2>
+    <ul style="line-height: 1.6; margin-left: 1rem;">
+      <li>Statistical Modeling & Inference</li>
+      <li>Machine Learning</li>
+      <li>Clinical Trial Data Analysis</li>
+      <li>Data Visualization & Communication</li>
+      <li>R, Python, and SQL</li>
+    </ul>
   </div>
 
   <!-- Right column: Bio -->
