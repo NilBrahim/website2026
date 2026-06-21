@@ -16,7 +16,7 @@
          style="width: 100%; max-width: 410px; height: auto; object-fit: cover; border-radius: 0;">
   <!-- Right column: Contact & Skills -->
   <div style="flex: 1; font-size: 0.9rem; min-width: 260px;">
-    <h2 style="margin-bottom: 1rem;">Contact Info</h2>
+    <h2 style="margin-bottom: 1rem;font-size: 1rem;">Contact Info</h2>
     <p>
       <strong>Email:</strong> <a href="mailto:s.niloufar.ebrahimi@gmail.com">s.niloufar.ebrahimi@gmail.com</a><br>
       <strong>GitHub:</strong> <a href="https://github.com/NilBrahim">NilBrahim</a><br>
