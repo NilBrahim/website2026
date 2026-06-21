@@ -5,13 +5,13 @@ draft: false
 
 <style>
 a {
-  color: #4b7bae;
-  text-decoration: none;
+  color: #4b7bae !important;
+  text-decoration: none !important;
 }
 
 a:hover {
-  color: #2f5f8f;
-  text-decoration: none;
+  color: #2f5f8f !important;
+  text-decoration: none !important;
 }
 </style>
 
@@ -38,4 +38,3 @@ I like to share what I’m reading to keep me motivated. Below are books I’ve 
 1. [Laughable Loves](https://www.goodreads.com/book/show/26101.Laughable_Loves), Milan Kundera  
 1. [The Little Book of Hygge](https://www.goodreads.com/book/show/34690889-the-little-book-of-hygge), Meik Wiking  
 1. [Farewell Waltz](https://www.goodreads.com/book/show/50605.Farewell_Waltz), Milan Kundera<sup>*</sup>  
-
