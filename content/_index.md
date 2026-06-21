@@ -12,16 +12,12 @@
 
   <!-- Left column: Photo + Contact + Skills -->
   <div style="flex: 1 1 300px; text-align: center; margin-top: -40px;">
-
     <img src="images/profile.jpg"
          width="200"
          style="width: 100%; max-width: 410px; height: auto; object-fit: cover; border-radius: 50%;">
-
     <!-- Contact & Skills -->
     <div style="font-size: 0.9rem; min-width: 260px; text-align: left; margin-top: 1.5rem;">
-
       <h2 style="margin-bottom: 1rem; font-size: 1.01rem;">Contact Info</h2>
-
       <p>
         <strong>Email:</strong>
         <a href="mailto:s.niloufar.ebrahimi@gmail.com"
@@ -31,7 +27,6 @@
            onmouseout="this.style.color='#4b7bae';">
            s.niloufar.ebrahimi@gmail.com
         </a><br>
-
         <strong>GitHub:</strong>
         <a href="https://github.com/NilBrahim"
            target="_blank"
@@ -40,7 +35,6 @@
            onmouseout="this.style.color='#4b7bae';">
            NilBrahim
         </a><br>
-
         <strong>LinkedIn:</strong>
         <a href="https://www.linkedin.com/in/niloufar-ebrahimi/"
            target="_blank"
@@ -50,9 +44,7 @@
            Niloofar Ebrahimi
         </a>
       </p>
-
       <h2 style="margin-top: 2rem; margin-bottom: 1rem; font-size: 1.01rem;">Skills</h2>
-
       <ul style="line-height: 1.6; margin-left: 1rem;">
         <li>Statistical Modeling & Inference</li>
         <li>Machine Learning</li>
@@ -67,7 +59,6 @@
   <div style="flex: 1;">
     <!-- YOUR BIO TEXT HERE -->
   </div>
-
     
   </div>
 
