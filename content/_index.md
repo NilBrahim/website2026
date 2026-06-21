@@ -1,14 +1,4 @@
-<style>
-a {
-  color: #4b7bae !important;
-  text-decoration: none !important;
-}
 
-a:hover {
-  color: #2f5f8f !important;
-  text-decoration: none !important;
-}
-</style>
 <!-- ===== HERO SECTION (Photo + Bio) ===== -->
 <div style="
   display: flex;
@@ -25,6 +15,19 @@ a:hover {
 <div style="flex: 1 1 300px; text-align: center; margin-top: -40px;">
   <img src="images/profile.jpg" width="200" style="border-radius:50%;"
          style="width: 100%; max-width: 410px; height: auto; object-fit: cover; border-radius: 0;">
+
+<style>
+a {
+  color: #4b7bae !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: #2f5f8f !important;
+  text-decoration: none !important;
+}
+</style>
+  
   <!-- Right column: Contact & Skills -->
   <div style="flex: 1; font-size: 0.9rem; min-width: 260px;">
     <h2 style="margin-bottom: 1rem;font-size: 1.01rem;">Contact Info</h2>
