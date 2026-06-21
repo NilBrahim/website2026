@@ -28,12 +28,14 @@
       <li>Machine Learning</li>
       <li>Clinical Trial Data Analysis</li>
       <li>Data Visualization & Communication</li>
-      <li>R, Python, and SQ
-  
-  
+      <li>R, Python, and SQL</li>
+    </ul>
   </div>
 
+    
+  </div>
 
+  <!-- Right column: Bio -->
   <div style="flex: 1.5 1 400px; font-size: 0.9rem; line-height: 1.6;">
 <p>I’m a statistician and data-driven healthcare enthusiast with a passion for using statistical modeling, machine learning, and quantitative methods to improve clinical research. I hold an <strong>M.S. in Mathematical Statistics</strong> from Amirkabir University of Technology (AUT) and a <strong>B.S. in Applied Statistics</strong> from the University of Tehran (UT).</p>
 
@@ -124,5 +126,3 @@ Niloofar Ebrahimi, Samaneh Eftekhari
   A 16-hour (4-week) workshop on data analysis using R for graduate students in Statistics and Mathematics, covering R programming fundamentals, statistical analysis, hypothesis testing, and data visualization.
 </ul>
   </div>
-L</li>
-
