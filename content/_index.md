@@ -20,7 +20,7 @@
     <p>
       <strong>Email:</strong> <a href="mailto:s.niloufar.ebrahimi@gmail.com">s.niloufar.ebrahimi@gmail.com</a><br>
       <strong>GitHub:</strong> <a href="https://github.com/NilBrahim" target="_blank"
-       style="text-decoration: none; color: inherit;"
+       style="color: inherit;"
        onmouseover="this.style.color='#4b7bae';"
        onmouseout="this.style.color='inherit';">NilBrahim</a><br>
       <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/niloufar-ebrahimi/">Nil E.</a>
