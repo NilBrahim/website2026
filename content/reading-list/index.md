@@ -3,8 +3,6 @@ title: "Reading List"
 draft: false
 ---
 
-
-I like to share what I’m reading to keep me motivated. Below are books I’ve read. <br>Books I’ve especially loved are marked with an asterisk.
 <style>
 a {
   color: #4b7bae !important;
@@ -16,6 +14,8 @@ a:hover {
   text-decoration: none !important;
 }
 </style>
+I like to share what I’m reading to keep me motivated. Below are books I’ve read. <br>Books I’ve especially loved are marked with an asterisk.
+
 ## 2026
 
 1. [Moonwalking with Einstein](https://www.goodreads.com/book/show/6346975-moonwalking-with-einstein?ref=nav_sb_ss_1_27), Joshua Foer  
