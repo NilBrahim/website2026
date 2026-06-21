@@ -28,4 +28,98 @@
 
 </div>
 
+<hr style="margin: 2rem 2rem; border: 0px solid #ddd;">
+
+<!-- ===== RESEARCH & CONTACT SECTION (Two-column) ===== -->
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 3rem; padding: 2rem 4rem;">
+
+  <!-- Left column: Publications + Teaching -->
+  <div style="flex: 2; min-width: 340px;">
+<h2 style="margin-bottom: 1rem;">Publications</h2>
+<ul style="line-height: 1.6; margin-left: 1rem;">
+
+  <strong>
+    <a href="/pdfs/JSMTA.pdf" target="_blank"
+       style="text-decoration: none; color: inherit;"
+       onmouseover="this.style.color='#4b7bae';"
+       onmouseout="this.style.color='inherit';">
+       Minimum distance Lasso for robust estimation in high-dimensional data.
+    </a>
+  </strong>
+  <br>
+Niloofar Ebrahimi, Adel Mohammadpour
+  <br>
+    <a href="https://jsm.yazd.ac.ir/issue_429_467.html" target="_blank"
+       style="text-decoration: none; color: inherit;"
+       onmouseover="this.style.color='#4b7bae';"
+       onmouseout="this.style.color='inherit';">
+  Journal of Statistical Modeling: Theory and Applications (JSMTA) 2021.
+  <br><br>
+
+  <strong>
+    <a href="/pdfs/FINACT.pdf" target="_blank"
+       style="text-decoration: none; color: inherit;"
+       onmouseover="this.style.color='#4b7bae';"
+       onmouseout="this.style.color='inherit';">
+       Comparative analysis of machine learning methods for credit risk assessment.
+    </a>
+  </strong>
+  <br>
+Niloofar Ebrahimi, A. Vahidi, Erfan Salavati
+  <br>
+<a href="https://math.ipm.ac.ir/conferences/2018/FINACT/Abstracts.pdf" target="_blank"
+       style="text-decoration: none; color: inherit;"
+       onmouseover="this.style.color='#4b7bae';"
+       onmouseout="this.style.color='inherit';">
+  National Conference on Financial and Actuarial Mathematics (FINACT-IRAN) 2018.
+  <br><br>
+
+  <strong>
+    <a href="https://en.civilica.com/doc/842432/" target="_blank"
+       style="text-decoration: none; color: inherit;"
+       onmouseover="this.style.color='#4b7bae';"
+       onmouseout="this.style.color='inherit';">
+       Evaluating loan risk determinants with logistic regression.
+    </a>
+  </strong>
+  <br>
+Niloofar Ebrahimi, Samaneh Eftekhari
+  <br>
+  National Conference of Monetary and Exchange Policies 2017.
+</ul>
+<h2 style="margin-top: 3rem; margin-bottom: 1rem;">Teaching</h2>
+<ul style="line-height: 1.6; margin-left: 1rem;">
+
+  <strong>At AUT:</strong><br>
+
+  <strong>I served as a Teaching Assistant for the Linear Models course for graduate students (Spring 2019)</strong><br>
+  Department of Mathematics and Computer Science.<br>
+  I conducted weekly sessions emphasizing quantitative material and guided students through data analysis using R for statistical computation.
+  <br><br>
+
+  <strong>I led several Workshops in Probability and Statistics for Engineers and Scientists (2018–2020)</strong><br>
+  Department of Textile Engineering.<br>
+  These workshops introduced core statistical concepts and methods for engineering students.<br>always a challenging yet rewarding experience teaching statistics to a non-statistical audience.
+  <br><br>
+
+  <strong>I served as a Workshop Instructor for Data Analysis with R Programming Language (Fall 2019)</strong><br>
+  Department of Mathematics and Computer Science.<br>
+  A 16-hour (4-week) workshop on data analysis using R for graduate students in Statistics and Mathematics, covering R programming fundamentals, statistical analysis, hypothesis testing, and data visualization.
+</ul>
+  </div>
+  <!-- Right column: Contact & Skills -->
+  <div style="flex: 1; min-width: 260px;">
+    <h2 style="margin-bottom: 1rem;">Contact Info</h2>
+    <p>
+      <strong>Email:</strong> <a href="mailto:s.niloufar.ebrahimi@gmail.com">s.niloufar.ebrahimi@gmail.com</a><br>
+      <strong>GitHub:</strong> <a href="https://github.com/NilBrahim">NilBrahim</a><br>
+      <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/niloufar-ebrahimi/">Nil E.</a>
+    </p>
+    <h2 style="margin-top: 2rem; margin-bottom: 1rem;">Skills</h2>
+    <ul style="line-height: 1.6; margin-left: 1rem;">
+      <li>Statistical Modeling & Inference</li>
+      <li>Machine Learning</li>
+      <li>Clinical Trial Data Analysis</li>
+      <li>Data Visualization & Communication</li>
+      <li>R, Python, and SQL</li>
 
