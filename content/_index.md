@@ -12,7 +12,7 @@
 
   <!-- Left column: Photo -->
   <div style="flex: 1 1 300px; text-align: center;">
-  <img src="images/profile.jpg" width="200" style="border-radius:50%;">
+  <img src="images/profile.jpg" width="200" style="border-radius:50%;"
          style="width: 100%; max-width: 410px; height: auto; object-fit: cover; border-radius: 0;">
   </div>
 
