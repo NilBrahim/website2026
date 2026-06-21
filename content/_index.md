@@ -22,8 +22,14 @@
 style="text-decoration: none; color: #4b7bae;"
 onmouseover="this.style.color='#2f5f8f';"
 onmouseout="this.style.color='#4b7bae';">s.niloufar.ebrahimi@gmail.com</a><br>
-      <strong>GitHub:</strong> <a href="https://github.com/NilBrahim">NilBrahim</a><br>
-      <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/niloufar-ebrahimi/">Nil E.</a>
+      <strong>GitHub:</strong> <a href="https://github.com/NilBrahim"target="_blank"
+style="text-decoration: none; color: #4b7bae;"
+onmouseover="this.style.color='#2f5f8f';"
+onmouseout="this.style.color='#4b7bae';">NilBrahim</a><br>
+      <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/niloufar-ebrahimi/"target="_blank"
+style="text-decoration: none; color: #4b7bae;"
+onmouseover="this.style.color='#2f5f8f';"
+onmouseout="this.style.color='#4b7bae';">Niloofar Ebrahimi</a>
     </p>
     <h2 style="margin-top: 2rem; margin-bottom: 1rem;font-size: 1.01rem;">Skills</h2>
     <ul style="line-height: 1.6; margin-left: 1rem;">
