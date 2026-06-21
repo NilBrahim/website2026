@@ -15,7 +15,7 @@
   <img src="images/profile.jpg" width="200" style="border-radius:50%;"
          style="width: 100%; max-width: 410px; height: auto; object-fit: cover; border-radius: 0;">
   <!-- Right column: Contact & Skills -->
-  <div style="flex: 1; min-width: 260px;">
+  <div style="flex: 1; font-size: 0.9rem; min-width: 260px;">
     <h2 style="margin-bottom: 1rem;">Contact Info</h2>
     <p>
       <strong>Email:</strong> <a href="mailto:s.niloufar.ebrahimi@gmail.com">s.niloufar.ebrahimi@gmail.com</a><br>
@@ -50,7 +50,7 @@
 <hr style="margin: 2rem 2rem; border: 0px solid #ddd;">
 
 <!-- ===== RESEARCH & CONTACT SECTION (Two-column) ===== -->
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 3rem; padding: 2rem 4rem;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; font-size: 0.9rem; gap: 3rem; padding: 2rem 4rem;">
 
   <!-- Left column: Publications + Teaching -->
   <div style="flex: 2; min-width: 340px;">
