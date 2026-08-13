@@ -38,7 +38,9 @@ Books I’ve especially loved are marked with an asterisk.
 ## 2026
 
 1. [Moonwalking with Einstein](https://www.goodreads.com/book/show/6346975-moonwalking-with-einstein?ref=nav_sb_ss_1_27), Joshua Foer  
-1. [Kafka on the Shore](https://www.goodreads.com/book/show/239775146-kafka-on-the-shore?ref=nav_sb_ss_1_18), Haruki Murakami  
+1. [Kafka on the Shore](https://www.goodreads.com/book/show/239775146-kafka-on-the-shore?ref=nav_sb_ss_1_18), Haruki Murakami
+1. [Days at the Morisaki Bookshop](https://www.goodreads.com/en/book/show/62047992-days-at-the-morisaki-bookshop), Satoshi Yagisawa
+1. [More Days at the Morisaki Bookshop](https://www.goodreads.com/en/book/show/199295788-more-days-at-the-morisaki-bookshop), Satoshi Yagisawa<sup>*</sup> 
 
 ## 2025
 
