@@ -6,7 +6,7 @@ draft: false
 <div style="font-size: 16px;">
 I spent the last 2 months looking for a biostatistician position, and I ended up applying for jobs in Yerevan.
 
-During my job search, I started noticing something. It seemed to me that the more developed a country was, the more biostatistics job opportunities there were. (Obviously, this is NOT a statistically valid conclusion 😁So just take it as an observation I had, not as a fact!)
+During my job search, I started noticing something. It seemed to me that the more developed a country was, the more biostatistics job opportunities there were. (Obviously, this is NOT a statistically valid conclusion, So just take it as an observation I had, not as a fact!)
 
 So I decided to apply for jobs in Yerevan, a city I’ve been to a few times and really loved! I’ll write more about my feelings about the city soon.
 
