@@ -4,6 +4,8 @@ theme = "PaperMod"
 
 [params]
 assets = { customCSS = ["css/custom.css"] }
+mainSections = []
+
 [pagination]
 pagerSize = 10
   
