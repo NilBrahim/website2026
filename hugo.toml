@@ -25,7 +25,11 @@ url = "/reading-list/"
 weight = 2
 
 [[menu.main]]
-name = "CV"
-url = "/cv.pdf"
+name = "Resources"
+url = "/resources/"
 weight = 3
 
+[[menu.main]]
+name = "CV"
+url = "/cv.pdf"
+weight = 4
