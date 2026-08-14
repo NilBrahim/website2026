@@ -3,7 +3,7 @@ title: "My Biostatistician Job-Hunting Journey"
 date: 2026-08-14
 draft: false
 ---
-
+<div style="font-size: 16px;">
 I spent the last 2 months looking for a biostatistician position, and I ended up applying for jobs in Yerevan.
 
 During my job search, I started noticing something. It seemed to me that the more developed a country was, the more biostatistics job opportunities there were. (Obviously, this is NOT a statistically valid conclusion 😁So just take it as an observation I had, not as a fact!)
@@ -27,3 +27,4 @@ And then I got the first interview after messaging them!
 So, one lesson I learned from this experience:
 
 **Don’t give up too soon.**
+</div>
